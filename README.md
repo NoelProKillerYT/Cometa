@@ -4,10 +4,10 @@ A repository for the discord bot Team_Bot
 
 # <b>Links</b>
 
-[<li>Invitation</li>](https://www.google.com/)
-<li>Discord Support</li>
-<li>Website Soon</li>
-<li>Docs Soon</li>
+[<li><b>Invitation</b></li>](https://www.google.com/)
+<li><b>Discord Support</b></li>
+<li><b>Website Soon</b></li>
+<li><b>Docs Soon</b></li>
 
 # Languages
 
