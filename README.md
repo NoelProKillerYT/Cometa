@@ -9,9 +9,9 @@ Team_Bot
 <li>Discord Support</li>
 <li>Website Soon</li>
 <li>Docs Soon</li>
-<li>Languages</li>
+# Languages
 
-# How to helping for Team_Bot Support new language
+How to helping for Team_Bot Support new language
 
 Look for the file /translate/{yourlang}
 Translate the json file
