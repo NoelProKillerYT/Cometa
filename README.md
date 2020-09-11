@@ -1,5 +1,4 @@
-Team_Bot<br>
-<b>Team_Bot Discord Bot</b>
+# Team_Bot Discord Bot</b>
 
 # A repository for the discord bot Team_Bot
 
