@@ -8,6 +8,7 @@ A repository for the discord bot Team_Bot
 <li>Discord Support</li>
 <li>Website Soon</li>
 <li>Docs Soon</li>
+
 # Languages
 
 How to helping for Team_Bot Support new language
