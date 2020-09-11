@@ -1,17 +1,17 @@
 # Team_Bot
-Team_Bot Discord Bot
+# <b>Team_Bot Discord Bot</b>
 
-A repository for the discord bot Adeka
+# A repository for the discord bot Team_Bot
 
-Links
+# <b>Links</b>
 
 <li>Invitation</li>
-Discord Support
-Website Soon
-Docs Soon
-Languages
+<li>Discord Support</li>
+<li>Website Soon</li>
+<li>Docs Soon</li>
+<li>Languages</li>
 
-How to helping for Adeka Support new language
+# How to helping for Adeka Support new language
 
 Look for the file /translate/{yourlang}
 Translate the json file
