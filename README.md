@@ -4,7 +4,7 @@ A repository for the discord bot Team_Bot
 
 # <b>Links</b>
 
-<li>Invitation</li>
+[<li>Invitation</li>](https://www.google.com/)
 <li>Discord Support</li>
 <li>Website Soon</li>
 <li>Docs Soon</li>
