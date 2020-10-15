@@ -4,9 +4,9 @@ A repository for the discord bot Team_Bot
 
 # <b>Links</b>
 
-[<li><b>Invitation</b></li>](https://discord.com/oauth2/authorize?client_id=747171072364773466&scope=bot&permissions=272657471)
-[<li><b>Discord Support</b></li>](https://discord.gg/kAf9mR6)
-[<li><b>Website Soon</b></li>](https://teambot16.webnode.es)
+[<li><b>Invitation</b></li>](http://botemoda.com/2w68)
+[<li><b>Discord Support</b></li>](http://botemoda.com/2w3n)
+[<li><b>Website Soon</b></li>](http://botemoda.com/2vxD)
 <li><b>Docs Soon</b></li>
 
 # Languages
