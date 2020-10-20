@@ -1,6 +1,6 @@
 # Cometa Discord Bot</b>
 
-A repository for the discord bot Team_Bot
+A repository for the discord bot Cometa
 
 # <b>Links</b>
 
