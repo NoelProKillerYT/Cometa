@@ -4,9 +4,9 @@ A repository for the discord bot Cometa
 
 # <b>Links</b>
 
-[<li><b>Invitation</b></li>](http://botemoda.com/2w68)
-[<li><b>Discord Support</b></li>](http://botemoda.com/2w3n)
-[<li><b>Website Soon</b></li>](http://botemoda.com/2vxD)
+[<li><b>Invitation</b></li>](http://ivononic.com/5dZe)
+[<li><b>Discord Support</b></li>](http://ivononic.com/13038973/server-support)
+[<li><b>Website Soon</b></li>](http://ivononic.com/13038973/pagina-web-cometa)
 <li><b>Docs Soon</b></li>
 
 # Languages
