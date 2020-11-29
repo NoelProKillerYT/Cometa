@@ -1,6 +1,6 @@
-# Cometa Discord Bot</b>
+# COMETA and COMETA Music Discord Bot</b>
 
-A repository for the discord bot Cometa
+A repository for the discord bot COMETA and COMETA Music
 
 # <b>Links</b>
 
@@ -11,7 +11,7 @@ A repository for the discord bot Cometa
 
 # Languages
 
-How to helping for Team_Bot Support new language
+How to helping for COMETA and COMETA Music Support new language
 
 Look for the file /translate/{yourlang}
 Translate the json file
